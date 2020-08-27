@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2171b6ba.chunk.css",
+    "main.js": "/static/js/main.a4c9bfd9.chunk.js",
+    "main.js.map": "/static/js/main.a4c9bfd9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3bbf3189.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3bbf3189.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.aea2aeec.chunk.js": "/static/js/2.aea2aeec.chunk.js",
+    "static/js/2.aea2aeec.chunk.js.map": "/static/js/2.aea2aeec.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.571e448750b11c6445198ed37c759f24.js": "/precache-manifest.571e448750b11c6445198ed37c759f24.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.2171b6ba.chunk.css.map": "/static/css/main.2171b6ba.chunk.css.map",
+    "static/js/2.aea2aeec.chunk.js.LICENSE.txt": "/static/js/2.aea2aeec.chunk.js.LICENSE.txt",
+    "static/media/android-studio-logo.png": "/static/media/android-studio-logo.b6a0eae6.png",
+    "static/media/angular.png": "/static/media/angular.22925b94.png",
+    "static/media/drupal.jpg": "/static/media/drupal.900dfc2f.jpg",
+    "static/media/image_1.jpg": "/static/media/image_1.d8979dca.jpg",
+    "static/media/ionic.jpeg": "/static/media/ionic.a7245eda.jpeg",
+    "static/media/java.png": "/static/media/java.003a9bb5.png",
+    "static/media/javascript.jpg": "/static/media/javascript.ce60d93c.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/mongodb.png": "/static/media/mongodb.602a943c.png",
+    "static/media/mysql.png": "/static/media/mysql.6b47d7fe.png",
+    "static/media/nodejs.png": "/static/media/nodejs.6dcf6999.png",
+    "static/media/php.png": "/static/media/php.0e6c1e51.png",
+    "static/media/react.jpg": "/static/media/react.a47b04bb.jpg",
+    "static/media/wordpress.png": "/static/media/wordpress.31dc05e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bbf3189.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.aea2aeec.chunk.js",
+    "static/css/main.2171b6ba.chunk.css",
+    "static/js/main.a4c9bfd9.chunk.js"
+  ]
+}
